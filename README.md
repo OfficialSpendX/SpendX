@@ -37,7 +37,7 @@
 
 <p align="center">
   <!-- Add screenshot files as needed, e.g. -->
-  <!-- <img src="screenshots/ss1.jpg" height="420"> -->
+  <img src="ss/home.jpg" height="420">
   <!-- <img src="screenshots/ss2.jpg" height="420"> -->
 </p>
 
