@@ -71,8 +71,8 @@
   <!-- Replace with actual screenshot paths -->
   <img src="ss/home.jpg" width="200" alt="Home Screen">
   <img src="ss/stats.jpg" width="200" alt="Statistics">
-  <img src="ss/goals.jpg" width="200" alt="Goals">
-  <img src="ss/settings.jpg" width="200" alt="Settings">
+  <img src="ss/transaction.jpg" width="200" alt="Transacitons">
+  <img src="ss/settings.png" width="200" alt="Settings">
 </p>
 
 ---
