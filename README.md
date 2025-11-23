@@ -38,6 +38,10 @@
 <p align="center">
   <!-- Add screenshot files as needed, e.g. -->
   <img src="ss/home.jpg" height="420">
+  <img src="ss/account.jpg" height="420">
+  <img src="ss/transaction.jpg" height="420">
+  <img src="ss/stats.jpg" height="420">
+  <img src="ss/settings.jpg" height="420">
   <!-- <img src="screenshots/ss2.jpg" height="420"> -->
 </p>
 
