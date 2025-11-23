@@ -79,7 +79,7 @@
 ## 🛠️ Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/)
-- **Database**: [Hive](https://docs.hivedb.dev/) (NoSQL, fast & secure)
+- **Database**: [Hive](https://github.com/isar/hive) (NoSQL, fast & secure)
 - **State Management**: [Provider](https://pub.dev/packages/provider)
 - **Security**: [Flutter Secure Storage](https://pub.dev/packages/flutter_secure_storage) & [Local Auth](https://pub.dev/packages/local_auth)
 - **UI Components**: [Glassmorphism](https://pub.dev/packages/glassmorphism), [FontAwesome](https://pub.dev/packages/font_awesome_flutter), [FL Chart](https://pub.dev/packages/fl_chart)
