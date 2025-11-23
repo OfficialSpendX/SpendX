@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Offline-100%25-orange?style=flat-square" alt="Offline">
   <img src="https://img.shields.io/badge/Privacy-First-red?style=flat-square" alt="Privacy">
 </p>
@@ -68,7 +68,6 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <!-- Replace with actual screenshot paths -->
   <img src="ss/home.jpg" width="200" alt="Home Screen">
   <img src="ss/stats.jpg" width="200" alt="Statistics">
   <img src="ss/transaction.jpg" width="200" alt="Transacitons">
@@ -89,7 +88,8 @@
 
 ## 📚 License
 
-SpendX is open-source software licensed under the [MIT License](LICENSE).
+SpendX is open-source software licensed under the GNU General Public License v3.0 (GPL-3.0).  
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
@@ -97,7 +97,8 @@ SpendX is open-source software licensed under the [MIT License](LICENSE).
 
 Have questions, suggestions, or need help?
 
-📧 **Email**: contact.spendx@zohomail.in
+📧 **Email**: [contact.spendx@zohomail.in](mailto:contact.spendx@zohomail.in)
 
 ---
+
 <p align="center">Made with ❤️ for financial independence.</p>
