@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/logo/logo1.jpg" height="120" alt="SpendX Logo">
+  <img src="logo/logo1.jpg" height="120" alt="SpendX Logo">
 </p>
 
 <h1 align="center">💸 SpendX - Premium Offline Expense Tracker</h1>
