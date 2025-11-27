@@ -68,10 +68,7 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="ss/home.jpg" width="200" alt="Home Screen">
-  <img src="ss/stats.jpg" width="200" alt="Statistics">
-  <img src="ss/transaction.jpg" width="200" alt="Transacitons">
-  <img src="ss/settings.png" width="200" alt="Settings">
+  <img src="ss/banner.jpg" width="200" alt="Home Screen">
 </p>
 
 ---
