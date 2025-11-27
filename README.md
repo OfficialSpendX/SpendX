@@ -68,7 +68,7 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="ss/banner.jpg" width="900" alt="Home Screen">
+  <img src="ss/banner.jpg" width="1000" alt="Home Screen">
 </p>
 
 ---
